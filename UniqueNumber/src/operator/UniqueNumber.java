@@ -2,7 +2,7 @@ package operator;
 
 // * A ^ A = 0
 // * A ^ 0 = A
-// * A ^ B ^ C = A ^ C ^B
+// * A ^ B ^ C = A ^ C ^ B
 
 
 public class UniqueNumber {
@@ -14,19 +14,16 @@ public class UniqueNumber {
 	}
 
 	
-	
 	 public int[] getArray() {
 		return Array;
 	}
 
 
-
-	 public void setArray(int[] array) {
+         public void setArray(int[] array) {
 		Array = array;
 	}
 
-
-
+	
 	//method to find the unique number in an array
 	public int unique(int numbers []) {
 		
