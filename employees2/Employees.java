@@ -1,3 +1,5 @@
+//Deitel and Deitel Ex. 9.14, 9.15
+
 package employees2;
 
 public class Employees {
