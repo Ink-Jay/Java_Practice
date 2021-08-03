@@ -6,7 +6,7 @@ public class RotateLeft extends RotateRight {
 
 	public RotateLeft(int[] array, int k) {
 		super(array, k);
-		// TODO Auto-generated constructor stub
+		
 	}
 	
      	public void RotateL() {
